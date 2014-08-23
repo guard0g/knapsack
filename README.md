@@ -1,0 +1,4 @@
+knapsack
+========
+
+discrete optimization: knapsack
